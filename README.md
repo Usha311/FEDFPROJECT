@@ -1,6 +1,6 @@
 # FEDFPROJECT
 # Simple Interest Calculator
-
+2023 XYZ,Inc.
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
 ## Input:
@@ -10,3 +10,4 @@ A calculator that calculates simple interest given principal, annual rate of int
 
 ## Output:
 - simple interest = p * t * r
+- 
